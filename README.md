@@ -1,0 +1,2 @@
+# mainserver
+Itsstarting
